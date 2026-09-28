@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Applications/development/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hemrajmehra/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hemrajmehra/Documents/MPSAPS Project/eAttendanceMP_1_Dec/eattendancemp/android/app/.cxx/release/6j2p5u52/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hemrajmehra/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hemrajmehra/Documents/MPSAPS Project/eAttendanceMP_1_Dec/eattendancemp/android/app/.cxx/release/6j2p5u52/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/hemrajmehra/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/hemrajmehra/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

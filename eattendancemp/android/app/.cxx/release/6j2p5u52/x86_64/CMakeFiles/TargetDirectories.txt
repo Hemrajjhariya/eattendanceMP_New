@@ -1,0 +1,2 @@
+/Users/hemrajmehra/Documents/MPSAPS Project/eAttendanceMP_1_Dec/eattendancemp/android/app/.cxx/release/6j2p5u52/x86_64/CMakeFiles/edit_cache.dir
+/Users/hemrajmehra/Documents/MPSAPS Project/eAttendanceMP_1_Dec/eattendancemp/android/app/.cxx/release/6j2p5u52/x86_64/CMakeFiles/rebuild_cache.dir
